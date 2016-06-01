@@ -1,0 +1,44 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"browsers":
+	[
+		"last 1 version",
+		"> 10%",
+		"> 5% in US",
+		"ie 8",
+		"ie 7"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/brogrammer (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.sublime-workspace",
+		"*.scssc"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		"log",
+		"node_modules",
+		"tmp/cache",
+		".vagrant"
+	],
+	"font_size": 14,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"line_padding_bottom": 6,
+	"line_padding_top": 6,
+	"remember_open_files": false,
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"theme": "Brogrammer.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"wrap_width": 102
+}
